@@ -1,0 +1,25 @@
+{
+  "name": "new-folder-(2)",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibm-developer-skills-network/vftvk-Simple-Interest-Calculator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ibm-developer-skills-network/vftvk-Simple-Interest-Calculator/issues"
+  },
+  "homepage": "https://github.com/ibm-developer-skills-network/vftvk-Simple-Interest-Calculator#readme",
+  "devDependencies": {
+    "jasmine": "^6.2.0",
+    "webpack": "^5.107.1",
+    "webpack-cli": "^7.0.2"
+  }
+}
