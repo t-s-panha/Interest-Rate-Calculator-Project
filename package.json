@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/t-s-panha/Interest-Rate-Calculator-Project#readme",
   "devDependencies": {
+    "copy-webpack-plugin": "^14.0.0",
     "jasmine": "^6.2.0",
     "webpack": "^5.107.1",
     "webpack-cli": "^7.0.2"
