@@ -1,22 +1,27 @@
 {
-  "name": "new-folder-(2)",
+  "name": "interest-rate-calculator-project",
   "version": "1.0.0",
-  "description": "",
+  "description": "Simple Interest Rate Calculator",
   "main": "script.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npx jasmine",
+    "build": "npx webpack"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ibm-developer-skills-network/vftvk-Simple-Interest-Calculator.git"
+    "url": "git+https://github.com/t-s-panha/Interest-Rate-Calculator-Project.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "interest",
+    "calculator",
+    "finance"
+  ],
+  "author": "t-s-panha",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ibm-developer-skills-network/vftvk-Simple-Interest-Calculator/issues"
+    "url": "https://github.com/t-s-panha/Interest-Rate-Calculator-Project/issues"
   },
-  "homepage": "https://github.com/ibm-developer-skills-network/vftvk-Simple-Interest-Calculator#readme",
+  "homepage": "https://github.com/t-s-panha/Interest-Rate-Calculator-Project#readme",
   "devDependencies": {
     "jasmine": "^6.2.0",
     "webpack": "^5.107.1",
